@@ -1,0 +1,15 @@
+# Challenge 1
+# Write a value with an Integer data type 
+# 
+t = 25
+print(t)
+
+# Challenge 2 
+# Write any value with a Float Data Type 
+# 
+r = 3.289
+print(r)
+
+k = 'Kevin the Amazing Boy'
+print(k)
+
